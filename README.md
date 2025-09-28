@@ -1,2 +1,2 @@
 # SacrificesMustBeMade
-Short demo of rpg for daydream sydney 2025
+Short demo of rpg for daydream sydney 2025. set in Rome at a gladiatorial tournament, it tells the story of a simple gladiator, who must keep his family safe through victory. over time, his greed for power gets stronger, to the point where he makes sacrifices to achieve it, setting up the story of the game. made in godot, the project took a cumulative 9 hours of art and coding, and overall, I was pretty satisfied at the result.
